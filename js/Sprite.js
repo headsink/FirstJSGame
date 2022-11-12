@@ -1,5 +1,7 @@
-export default class Sprite {
+class Sprite {
     constructor(position) {
         this.position = position;
     }
 }
+
+export default{Sprite};
