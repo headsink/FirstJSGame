@@ -27,8 +27,8 @@ class Sprite {
 
 const player = new Sprite({
     position: {
-        x: 0,
-        y: 0
+        x: 150,
+        y: 50
     },
     velocity: {
         x: 0,
